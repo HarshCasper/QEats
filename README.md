@@ -17,11 +17,25 @@ The QEats backend provides all the necessary functionality required to enable us
 
 ![image](https://github.com/HarshCasper/QEats/blob/master/model_architecture.png)
 
-## Technology Stack
+## 🏁 Technology Stack
 
 * [Django](https://www.djangoproject.com/)
 * [Facebook Share API](https://developers.facebook.com/docs/sharing/web/)
 * [Django REST](https://www.django-rest-framework.org/)
 * [JSON](https://www.json.org/)
 * [Calrifai Predict API](https://docs.clarifai.com/api-guide/predict)
+
+## 🏃‍♂️ Things Learnt
+
+* Requests Module.
+* Postman.
+* cURL Requests.
+* Facebook Share API.
+* Pinterest Share API.
+* Clarifai Predict API.
+* JSON Parsing.
+
+## 📜 Acknowledgments 
+
+This Mini-Project was created as part of [Crio](https://crio.do) Micro Experience and Campus Tryout in association with [Developer Students Club-Sathyabama](https://sites.google.com/view/sathyabamacodingclub).
 
